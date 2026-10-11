@@ -1,0 +1,6 @@
+{
+  "name": "HORIZON VOYAGES — Projet d'Examen",
+  "description": "Application interactive et dashboard de présentation orale pour l'agence de tourisme Horizon Voyages.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
